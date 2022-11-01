@@ -6,10 +6,6 @@ public class Main {
         UI ui = new UI();
         ui.printWelcomeMessage();
         ui.printMainMenu();
-        
-        //ui.performCombatMath(new Enemy(), new Enemy());
-        /*StatsPrinter s =  new StatsPrinter();
-        s.printFinalStats(new Player("jojo", 5));*/
     }
 
 
